@@ -1,0 +1,1 @@
+INSERT INTO tax.company (id, address,code, name, tax_id)VALUES (1,"IT Professional Building", 11111, 1234567890123)
